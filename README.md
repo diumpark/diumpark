@@ -10,6 +10,10 @@
 - Understand how to contribute to open source projects
 - Learn best practices for troubleshooting and technical documentation
 
+## 📖 My Progress
+- The Odin Project:
+     - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a> - Introduction to Web Development
+
 ## 📫 Contact me here
 - Email: parkdium@gmail.com
 - More socials <a href="https://bento.me/dium">here</a>!
@@ -20,5 +24,5 @@
 
 ---
 
-_Thanks for stopping by my profile!_ ✨  
+_Thanks for stopping by!_ ✨  
 _Let’s connect and grow together!_
