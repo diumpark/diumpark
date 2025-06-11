@@ -15,8 +15,9 @@
 - 
 
 Badges:
-![Oracle](diumpark/onspring-badge-58626.png) 
-![Onspring](Oracle-Certification-badge_OC-Specialist600X600.png) 
+<img src="Oracle-Certification-badge_OC-Specialist600X600.png" width="200" alt="Oracle"/>
+<img src="onspring-badge-58626.png" width="200" alt="Onspring"/>
+
 
 ---
 
