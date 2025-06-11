@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Dium Park
 
-<!--
-**diumpark/diumpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🧑‍💻 Support Analyst casually learning web development by scratch
+- 🚀 Currently learning: HTML, CSS, and JavaScript (a little bit of Github stuff too)
+- 🛠️ Exploring the basics of coding, troubleshooting, and tech support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 My Learning Goals
+- Build and deploy my first personal website
+- Understand how to contribute to open source projects
+- Learn best practices for troubleshooting and technical documentation
+
+## 📫 How to Reach Me
+- Email: parkdium@gmail.com
+- 
+
+---
+
+_Thanks for stopping by my profile!_ ✨  
+_Let’s connect and grow together!_
