@@ -13,7 +13,7 @@
 ## 📖 My Progress
 - The Odin Project:
      - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a>
-          - <a href="https://www.theodinproject.com/lessons/foundations-motivation-and-mindset">Motivation and Minset</a>
+          - <a href="https://www.theodinproject.com/lessons/foundations-motivation-and-mindset">Motivation and Mindset</a>
 
 ## 📫 Contact me here
 - Email: parkdium@gmail.com
