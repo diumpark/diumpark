@@ -14,9 +14,8 @@
 - Email: parkdium@gmail.com
 - 
 
-Badges:
-<img src="Oracle-Certification-badge_OC-Specialist600X600.png" width="200" alt="Oracle"/>
-<img src="onspring-badge-58626.png" width="200" alt="Onspring"/>
+## Badges:
+<img src="Oracle-Certification-badge_OC-Specialist600X600.png" width="100" alt="Oracle"/> <img src="onspring-badge-58626.png" width="100" alt="Onspring"/>
 
 
 ---
