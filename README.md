@@ -14,6 +14,10 @@
 - Email: parkdium@gmail.com
 - 
 
+Badges:
+![Oracle](diumpark/onspring-badge-58626.png) 
+![Onspring](diumpark/Oracle-Certification-badge_OC-Specialist600X600.png) 
+
 ---
 
 _Thanks for stopping by my profile!_ ✨  
