@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Dium Park
-
-Welcome to my GitHub profile!
+# 👋 Hi there, dium here!
 
 ## 🌱 About Me
 - 🧑‍💻 Support Analyst casually learning web development by scratch
