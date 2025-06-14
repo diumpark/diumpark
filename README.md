@@ -12,11 +12,11 @@
 
 ## 📖 My Progress
 - The Odin Project:
-     - <a href="images/https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a>
-          - <a href="images/https://www.theodinproject.com/lessons/foundations-motivation-and-mindset">Motivation and Mindset</a>
+     - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a>
+          - <a href="https://www.theodinproject.com/lessons/foundations-motivation-and-mindset">Motivation and Mindset</a>
 
 ## Badges:
-<img src="Oracle-Certification-badge_OC-Specialist600X600.png" width="100" alt="Oracle Global Human Resources Cloud 2019 Certified Implementation Specialist"/> <img src="onspring-badge-58626.png" width="100" alt="Certified Onspring Administrator - Level 1: Essentials"/>
+<img src="images/Oracle-Certification-badge_OC-Specialist600X600.png" width="100" alt="Oracle Global Human Resources Cloud 2019 Certified Implementation Specialist"/> <img src="images/onspring-badge-58626.png" width="100" alt="Certified Onspring Administrator - Level 1: Essentials"/>
 
 ## 📫 Contact me here
 - Email: parkdium@gmail.com
