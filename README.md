@@ -20,7 +20,7 @@
 
 ## 📫 Contact me here
 - Email: parkdium@gmail.com
-- More socials <a href="https://bento.me/dium">here</a>!
+- You can also dm me on my socials <a href="https://bento.me/dium">here</a>!
   
 ---
 
