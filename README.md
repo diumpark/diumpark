@@ -13,7 +13,7 @@
 ## 📖 My Progress
 - The Odin Project:
      - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a>
-          - <a href="https://www.theodinproject.com/lessons/foundations-computer-basics">Computer Basics</a>
+          - <a href="https://www.theodinproject.com/lessons/foundations-computer-basics">Prerequisites - Computer Basics</a>
 
 ## Badges:
 <img src="images/Oracle-Certification-badge_OC-Specialist600X600.png" width="100" alt="Oracle Global Human Resources Cloud 2019 Certified Implementation Specialist"/> <img src="images/onspring-badge-58626.png" width="100" alt="Certified Onspring Administrator - Level 1: Essentials"/>
