@@ -11,7 +11,7 @@
 - Learn best practices for troubleshooting and technical documentation
 
 ## 📖 My Progress
-- The Odin Project:
+- The Odin Project `[█░░░░░░░░░░░░] 12%`
      - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a>
           - <a href="https://www.theodinproject.com/lessons/foundations-how-does-the-web-work">Prerequisites - How Does the Web Work?</a>
 
