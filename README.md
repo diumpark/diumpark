@@ -7,7 +7,6 @@
 
 ## 📚 My Learning Goals
 - Build and deploy my first personal website
-- Understand how to contribute to open source projects
 - Learn best practices for troubleshooting and technical documentation
 
 ## 📖 My Progress
