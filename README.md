@@ -11,8 +11,8 @@
 - Learn best practices for troubleshooting and technical documentation
 
 ## 📖 My Progress
-- The Odin Project `[████░░░░░░░░░░░░░░░░] 20%`
-     - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a>
+- The Odin Project
+     - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a> `[████░░░░░░░░░░░░░░░░] 20%`
           - <a href="https://www.theodinproject.com/lessons/foundations-command-line-basics">Command Line Basics</a>
 
 ## Badges:
