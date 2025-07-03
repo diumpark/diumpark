@@ -11,8 +11,8 @@
 
 ## 📖 My Progress
 - The Odin Project
-     - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a> `[████░░░░░░░░░░░░░░░░] 20%`
-          - <a href="https://www.theodinproject.com/lessons/foundations-command-line-basics">Command Line Basics</a>
+     - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">Foundations Course</a> `[████░░░░░░░░░░░░░░░░] 25%`
+          - <a href="https://www.theodinproject.com/lessons/foundations-introduction-to-git">Introduction to Git</a>
 
 ## Badges:
 <img src="images/Oracle-Certification-badge_OC-Specialist600X600.png" width="100" alt="Oracle Global Human Resources Cloud 2019 Certified Implementation Specialist"/> <img src="images/onspring-badge-58626.png" width="100" alt="Certified Onspring Administrator - Level 1: Essentials"/>
